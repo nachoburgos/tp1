@@ -1,18 +1,35 @@
+body{
+    background-color: rgb(206, 214, 240);
+}
 main{
-    background-color: rgb(206, 214, 240)
+    background-color: #ffffff;
+    margin: 140px 50px;
+    border-radius: 20px;
+    text-align: center;
 }
 
 h1, h3{
     color: rgb(14,32,88);
+    padding: 10px 0px;
 }
 p{
     color: rgb(123,123,123);
+    padding: 10px 0px;
 }
 
 h2{
     color: rgb(66,105,226);
+    padding-top: 70 px 0px 20px 0px;
+    text-align: left;
 }
 
+section{
+    display: inline-block;
+    text-align: left;
+    margin: 10px;
+    padding: 10px;
+    /*border: yellow 2px solid;*/
+}
 i{
     color: #ffffff;
     background-color: rgb(66,105, 226);
